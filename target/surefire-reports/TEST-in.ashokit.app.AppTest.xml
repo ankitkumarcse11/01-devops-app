@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="in.ashokit.app.AppTest" time="0.062" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="D:\Devops practice\buildtool\01-Maven-App\target\test-classes;D:\Devops practice\buildtool\01-Maven-App\target\classes;C:\Users\ankit\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\ankit\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\ankit\.m2\repository\org\springframework\spring-core\7.0.2\spring-core-7.0.2.jar;C:\Users\ankit\.m2\repository\commons-logging\commons-logging\1.3.5\commons-logging-1.3.5.jar;C:\Users\ankit\.m2\repository\org\jspecify\jspecify\1.0.0\jspecify-1.0.0.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
+    <property name="sun.java.command" value="C:\Users\ankit\AppData\Local\Temp\surefire9449599472835441320\surefirebooter9732022856511447937.jar C:\Users\ankit\AppData\Local\Temp\surefire9449599472835441320 2025-12-27T15-51-48_153-jvmRun1 surefire140444320412086915tmp surefire_06468697865842194152tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="D:\Devops practice\buildtool\01-Maven-App\target\test-classes;D:\Devops practice\buildtool\01-Maven-App\target\classes;C:\Users\ankit\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\ankit\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\ankit\.m2\repository\org\springframework\spring-core\7.0.2\spring-core-7.0.2.jar;C:\Users\ankit\.m2\repository\commons-logging\commons-logging\1.3.5\commons-logging-1.3.5.jar;C:\Users\ankit\.m2\repository\org\jspecify\jspecify\1.0.0\jspecify-1.0.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\ankit"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2024-01-16"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-17"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="D:\Devops practice\buildtool\01-Maven-App"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\ankit\AppData\Local\Temp\surefire9449599472835441320\surefirebooter9732022856511447937.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.10+11-LTS-240"/>
+    <property name="user.name" value="ankit"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\ankit\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\ankit\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.10"/>
+    <property name="user.dir" value="D:\Devops practice\buildtool\01-Maven-App"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-17\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python312\Scripts\;C:\Python312\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MongoDB\Server\7.0\bin;C:\apache-maven-3.9.12\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\ankit\AppData\Local\Microsoft\WindowsApps;C:\Users\ankit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ankit\AppData\Roaming\npm;C:\Users\ankit\AppData\Local\GitHubDesktop\bin;C:\Program Files\mongosh\;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="17.0.10+11-LTS-240"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="in.ashokit.app.AppTest" time="0.002"/>
+</testsuite>
